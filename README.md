@@ -3,7 +3,23 @@
 
 Este é um exemplo funcional e **gratuito** de um **bot para envio de mensagens no WhatsApp**, criado com **JavaScript** utilizando a biblioteca `whatsappbot.js`.
 
-> ⚠️ Este projeto é voltado para **fins educacionais e comerciais éticos**, como: ⚙️ automação de atendimento 📊 comercial ou mensagens para contatos🔒autorizados.  
+> ⚠️ Este projeto é voltado para **fins educacionais e comerciais éticos**, como:
+>
+>
+>
+>
+> ⚙️ automação de atendimento
+>
+>
+>
+>
+> 📊 comercial ou mensagens para contatos 🔒autorizados.
+
+
+
+
+
+
 > **Use por sua conta e risco.**
 > 
 ---
