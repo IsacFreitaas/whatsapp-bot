@@ -1,14 +1,14 @@
 # whatsapp-bot
 ### 🤖 Bot para WhatsApp com JavaScript
 
-Este é um exemplo funcional de **bot para envio de mensagens no WhatsApp**, criado com **JavaScript** utilizando a biblioteca `whatsappbot.js`.
+Este é um exemplo funcional e **gratuito** de um **bot para envio de mensagens no WhatsApp**, criado com **JavaScript** utilizando a biblioteca `whatsappbot.js`.
 
 > ⚠️ Este projeto é voltado para **fins educacionais e comerciais éticos**, como: ⚙️ automação de atendimento 📊 comercial ou mensagens para contatos🔒autorizados.  
 > **Use por sua conta e risco.**
 > 
 ---
 
-## 🚀 O que este projeto faz
+## 🚀 O que esse bot faz
 
 - Envia mensagens automáticas para contatos no WhatsApp.
 - Permite integrar com aplicações comerciais (ex: atendimento, marketing autorizado).
