@@ -75,7 +75,10 @@ Sobre mim:
 
 
 
+
 Estudante de Ciência de Dados e Inteligência Artificial.
+
+
 
 
 
@@ -84,15 +87,23 @@ Estudante de Ciência de Dados e Inteligência Artificial.
 
 
 
+
+
+
 Youtube: @isazeitgeist
 
 
 
-Insta: @isac.sfreitas
+
+
+Insta: @isaczeitgeist
 
 
 
-Twitter: @isaczeitgeist
+
+
+Tiktok: @devisaczeitgeist
+
 
 
 
